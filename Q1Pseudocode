@@ -1,0 +1,8 @@
+# Q1 PSEUDOCODE
+DISPLAY "Please enter your name"
+ACCEPT INPUTED name
+
+DISPLAY "What item did you purchase"
+ACCEPT INPUTD item_purchased
+
+DISPLAY "Welcome [name], You have purchased a [item_purchased]"
